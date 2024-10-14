@@ -1,0 +1,16 @@
+C:\Users\LENOVO\source\repos\C#\ComboBoxApp\ComboBoxApp\bin\Debug\net8.0-windows\ComboBoxApp.exe
+C:\Users\LENOVO\source\repos\C#\ComboBoxApp\ComboBoxApp\bin\Debug\net8.0-windows\ComboBoxApp.deps.json
+C:\Users\LENOVO\source\repos\C#\ComboBoxApp\ComboBoxApp\bin\Debug\net8.0-windows\ComboBoxApp.runtimeconfig.json
+C:\Users\LENOVO\source\repos\C#\ComboBoxApp\ComboBoxApp\bin\Debug\net8.0-windows\ComboBoxApp.dll
+C:\Users\LENOVO\source\repos\C#\ComboBoxApp\ComboBoxApp\bin\Debug\net8.0-windows\ComboBoxApp.pdb
+C:\Users\LENOVO\source\repos\C#\ComboBoxApp\ComboBoxApp\obj\Debug\net8.0-windows\ComboBoxApp.COMBOBOX.resources
+C:\Users\LENOVO\source\repos\C#\ComboBoxApp\ComboBoxApp\obj\Debug\net8.0-windows\ComboBoxApp.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\C#\ComboBoxApp\ComboBoxApp\obj\Debug\net8.0-windows\ComboBoxApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\C#\ComboBoxApp\ComboBoxApp\obj\Debug\net8.0-windows\ComboBoxApp.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\C#\ComboBoxApp\ComboBoxApp\obj\Debug\net8.0-windows\ComboBoxApp.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\C#\ComboBoxApp\ComboBoxApp\obj\Debug\net8.0-windows\ComboBoxApp.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\C#\ComboBoxApp\ComboBoxApp\obj\Debug\net8.0-windows\ComboBoxApp.dll
+C:\Users\LENOVO\source\repos\C#\ComboBoxApp\ComboBoxApp\obj\Debug\net8.0-windows\refint\ComboBoxApp.dll
+C:\Users\LENOVO\source\repos\C#\ComboBoxApp\ComboBoxApp\obj\Debug\net8.0-windows\ComboBoxApp.pdb
+C:\Users\LENOVO\source\repos\C#\ComboBoxApp\ComboBoxApp\obj\Debug\net8.0-windows\ComboBoxApp.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\C#\ComboBoxApp\ComboBoxApp\obj\Debug\net8.0-windows\ref\ComboBoxApp.dll
